@@ -26,7 +26,7 @@ thiserror = "1.0"
 lazy_static = { version = "1", optional = true }
 log = { version = "0.4", optional = true  }
 # TEMP:
-geo-types = { optional = true, git = "https://github.com/gibbz00/geo", branch = "polygon_try_mut" }
+geo-types = { optional = true, git = "https://github.com/gibbz00/geo", branch = "mixed_features_v2" }
 
 [dev-dependencies]
 approx = "0.5"
